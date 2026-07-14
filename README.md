@@ -22,6 +22,7 @@ It includes an interactive **Streamlit dashboard** for visualization and model c
 
 ## Project Structure
 ferry_forecasting/
+
 │__ README.md 
 
 │__ requirements.txt
