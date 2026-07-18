@@ -1,4 +1,4 @@
-# Ferry Ticket Demand Forecasting
+  # Ferry Ticket Demand Forecasting
 
 This project forecasts short-term ferry ticket demand (15m–2h horizons) using machine learning and time-series models.  
 It includes an interactive **Streamlit dashboard** for visualization and model comparison.
@@ -15,8 +15,14 @@ It includes an interactive **Streamlit dashboard** for visualization and model c
   - RMSE (Root Mean Squared Error)
   - MAPE (Mean Absolute Percentage Error)
   - Peak Miss Rate
+  - Horizon-wise error
   - Confidence Band Width
   - Forecast Lead Time
+  - Forecast Accuracy (%)
+  - Error Drift	Stability across horizons
+
+
+
 
 ---
 
